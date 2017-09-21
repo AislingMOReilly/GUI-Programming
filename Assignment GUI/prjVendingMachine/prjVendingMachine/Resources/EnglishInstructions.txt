@@ -1,0 +1,5 @@
+1. Check Price of Drink
+2. Enter Money
+3. Select Drink
+4. Take Change if Any
+5. Press Return to Cancel Order
