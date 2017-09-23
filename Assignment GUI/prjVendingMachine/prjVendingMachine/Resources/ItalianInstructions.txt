@@ -1,5 +1,0 @@
-1. Controllare il prezzo della bevanda
-2. Inserire Denaro
-3. Selezionare Bere
-4. Prendere Cambiare se Qualsiasi
-5. Premere Ritorno per annullare l'ordine
