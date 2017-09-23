@@ -4,7 +4,7 @@ Projects coded in VB.NET through Visual Studio Community IDE
 
 Virtual Vending Machine:
 
-The first project 'Assignment GUI' involved designing, implementing and testing an event driven
+The first project 'Assignment 1 GUI' involved designing, implementing and testing an event driven
 application with a UI to simulate the basic functionality of a vending 
 machine
 
